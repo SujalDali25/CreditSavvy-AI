@@ -170,6 +170,11 @@ Reward maximization logic
 
 Constraint-aware ranking
 
+## 🌐 Live Demo
+
+The CreditSavvy AI chatbot is live on Render. You can try it here:  
+🔗 https://creditsavvy-ai.onrender.com/
+
 💰 Reward Points Optimizer
 Travel redemption (highest value)
 
