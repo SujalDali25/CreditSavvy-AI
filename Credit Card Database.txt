@@ -1,0 +1,359 @@
+{
+  "dataset_name": "Indian Credit Card Rewards Dataset 2026",
+  "last_updated": "2026-04-28",
+  "disclaimer": "Rates and benefits are subject to change. Always verify with the official bank website before making financial decisions.",
+  "cards": [
+    {
+      "id": 1,
+      "bank": "HDFC Bank",
+      "card_name": "Infinia Metal",
+      "network": "Visa / Mastercard",
+      "annual_fee": 12500,
+      "reward_rate_notes": "5 reward points per ₹150 spent (≈3.33%), up to 10X on smartbuy",
+      "cashback_rate": "5% on flights/hotels via SmartBuy",
+      "best_for": ["Travel", "Luxury Shopping"],
+      "forex_markup": 2.00,
+      "rewards_breakdown": {
+        "base_reward_points": 5,
+        "points_per_spend": 150,
+        "value_per_point_rupees": 1.00
+      }
+    },
+    {
+      "id": 2,
+      "bank": "HDFC Bank",
+      "card_name": "Regalia Gold",
+      "network": "Visa / Mastercard / RuPay",
+      "annual_fee": 2500,
+      "reward_rate_notes": "5 reward points per ₹200 spent (≈6.25% on travel edge)",
+      "cashback_rate": "Up to 12.5% on Travel Edge",
+      "best_for": ["Travel", "Dining", "Lifestyle"],
+      "forex_markup": 1.99,
+      "rewards_breakdown": {
+        "base_reward_points": 5,
+        "points_per_spend": 200,
+        "value_per_point_rupees": 0.50
+      }
+    },
+    {
+      "id": 3,
+      "bank": "HDFC Bank",
+      "card_name": "Tata Neu Infinity",
+      "network": "RuPay",
+      "annual_fee": 1499,
+      "reward_rate_notes": "1.5% NeuCoins on UPI, 5% on Tata brands",
+      "cashback_rate": "5% on Tata brands (1 NeuCoin = ₹1)",
+      "best_for": ["Tata Brand Shopping", "UPI Payments"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 4,
+      "bank": "SBI Card",
+      "card_name": "SBI Cashback",
+      "network": "Visa",
+      "annual_fee": 999,
+      "reward_rate_notes": "5% cashback on online spends, 1% on others",
+      "cashback_rate": "5% on online spends (cap ₹5,000/month)",
+      "best_for": ["Online Shopping", "Cashback"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 5,
+      "bank": "SBI Card",
+      "card_name": "SBI Prime",
+      "network": "Visa / Mastercard",
+      "annual_fee": 2999,
+      "reward_rate_notes": "10 points per ₹100 on dining/groceries/movies (≈5%)",
+      "cashback_rate": "2% base reward rate",
+      "best_for": ["Dining", "Groceries", "Movies"],
+      "forex_markup": 3.00,
+      "rewards_breakdown": {
+        "base_reward_points": 2,
+        "points_per_spend": 100,
+        "value_per_point_rupees": 0.25
+      }
+    },
+    {
+      "id": 6,
+      "bank": "Axis Bank",
+      "card_name": "Atlas",
+      "network": "Visa / Mastercard",
+      "annual_fee": 5000,
+      "reward_rate_notes": "5 EDGE Miles per ₹100 on travel (≈7.5%)",
+      "cashback_rate": "5% on travel via Travel Edge",
+      "best_for": ["Travel", "Luxury Dining"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 2,
+        "points_per_spend": 100,
+        "value_per_point_rupees": 0.75
+      }
+    },
+    {
+      "id": 7,
+      "bank": "Axis Bank",
+      "card_name": "Airtel Axis",
+      "network": "Visa / Mastercard",
+      "annual_fee": 500,
+      "reward_rate_notes": "25% cashback on Airtel bills, 10% on utilities (capped)",
+      "cashback_rate": "25% on Airtel, 10% on utilities",
+      "best_for": ["Airtel Bills", "Utility Payments"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 8,
+      "bank": "Axis Bank",
+      "card_name": "IndiGo Axis (Premium)",
+      "network": "Visa / RuPay",
+      "annual_fee": 5000,
+      "reward_rate_notes": "7 BluChips per ₹100 on IndiGo bookings (≈7%)",
+      "cashback_rate": "7% value back on IndiGo flights",
+      "best_for": ["IndiGo Flights", "Travel"],
+      "forex_markup": 2.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 9,
+      "bank": "ICICI Bank",
+      "card_name": "Amazon Pay ICICI",
+      "network": "Visa / RuPay",
+      "annual_fee": 0,
+      "reward_rate_notes": "5% for Prime members on Amazon, 2% on partner sites",
+      "cashback_rate": "5% on Amazon (Prime), 2% on partner, 1% elsewhere",
+      "best_for": ["Amazon Shopping", "Bill Payments"],
+      "forex_markup": 1.99,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 10,
+      "bank": "ICICI Bank",
+      "card_name": "Emeralde Metal",
+      "network": "Visa / Mastercard",
+      "annual_fee": 12500,
+      "reward_rate_notes": "6 points per ₹200 (≈3%)",
+      "cashback_rate": "3% base reward rate",
+      "best_for": ["Luxury", "Travel", "Dining"],
+      "forex_markup": 2.00,
+      "rewards_breakdown": {
+        "base_reward_points": 6,
+        "points_per_spend": 200,
+        "value_per_point_rupees": 1.00
+      }
+    },
+    {
+      "id": 11,
+      "bank": "Bank of Baroda (BOBCARD)",
+      "card_name": "BOBCARD Eterna",
+      "network": "Visa / RuPay / Mastercard",
+      "annual_fee": 2499,
+      "reward_rate_notes": "15 points per ₹100 on travel/dining (≈7.5%)",
+      "cashback_rate": "7.5% on travel & dining",
+      "best_for": ["Travel", "Dining", "International Spends"],
+      "forex_markup": 1.50,
+      "rewards_breakdown": {
+        "base_reward_points": 3,
+        "points_per_spend": 100,
+        "value_per_point_rupees": 0.25
+      }
+    },
+    {
+      "id": 12,
+      "bank": "Bank of Baroda (BOBCARD)",
+      "card_name": "BOBCARD Cashback",
+      "network": "Visa / Mastercard",
+      "annual_fee": 499,
+      "reward_rate_notes": "5% online cashback, 1% offline",
+      "cashback_rate": "5% online, 1% offline",
+      "best_for": ["Online Spending"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 13,
+      "bank": "Kotak Mahindra Bank",
+      "card_name": "Kotak Cashback+",
+      "network": "Visa / Mastercard",
+      "annual_fee": 750,
+      "reward_rate_notes": "5% on grocery/food delivery/entertainment (capped ₹500/month)",
+      "cashback_rate": "5% on grocery/food/entertainment, 3% fuel",
+      "best_for": ["Groceries", "Food Delivery", "Fuel"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 14,
+      "bank": "IndusInd Bank",
+      "card_name": "CRED IndusInd RuPay",
+      "network": "RuPay",
+      "annual_fee": 0,
+      "reward_rate_notes": "5% on online purchases, 1% offline",
+      "cashback_rate": "5% online, 1% offline",
+      "best_for": ["Online Shopping", "CRED Payments"],
+      "forex_markup": 3.00,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 15,
+      "bank": "Yes Bank",
+      "card_name": "Paisabazaar PaisaSave",
+      "network": "Visa / RuPay",
+      "annual_fee": 499,
+      "reward_rate_notes": "6% on dining/travel (cap ₹3,000/month), 1% others",
+      "cashback_rate": "6% dining/travel, 1% others",
+      "best_for": ["Dining", "Travel"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 16,
+      "bank": "Yes Bank",
+      "card_name": "YES POP-CLUB",
+      "network": "RuPay",
+      "annual_fee": 0,
+      "reward_rate_notes": "10% POPcoins online + 5% on UPI (Total 15% on POP Shop)",
+      "cashback_rate": "10% online, 5% UPI",
+      "best_for": ["UPI Payments", "POP Shop"],
+      "forex_markup": 3.00,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 17,
+      "bank": "IDFC FIRST Bank",
+      "card_name": "Millennia",
+      "network": "Visa / RuPay",
+      "annual_fee": 199,
+      "reward_rate_notes": "10X rewards on spends above ₹20,000/month",
+      "cashback_rate": "3% reward rate (10X on milestones)",
+      "best_for": ["High Monthly Spends", "Birthday Shopping"],
+      "forex_markup": 3.00,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    },
+    {
+      "id": 18,
+      "bank": "Standard Chartered",
+      "card_name": "Platinum Rewards",
+      "network": "Visa / Mastercard",
+      "annual_fee": 0,
+      "reward_rate_notes": "5X on dining/fuel (5 pts per ₹150), 1X on others",
+      "cashback_rate": "5% on dining/fuel",
+      "best_for": ["Dining", "Fuel"],
+      "forex_markup": 2.50,
+      "rewards_breakdown": {
+        "base_reward_points": 1,
+        "points_per_spend": 150,
+        "value_per_point_rupees": 0.25
+      }
+    },
+    {
+      "id": 19,
+      "bank": "AU Bank",
+      "card_name": "Zenith",
+      "network": "Visa / Mastercard",
+      "annual_fee": 7999,
+      "reward_rate_notes": "20 pts per ₹100 on dining (≈10% cashback)",
+      "cashback_rate": "10% on dining, 5% on groceries/international",
+      "best_for": ["Dining", "International Spends", "Groceries"],
+      "forex_markup": 2.50,
+      "rewards_breakdown": {
+        "base_reward_points": 5,
+        "points_per_spend": 100,
+        "value_per_point_rupees": 0.25
+      }
+    },
+    {
+      "id": 20,
+      "bank": "American Express",
+      "card_name": "Membership Rewards",
+      "network": "Amex",
+      "annual_fee": 4500,
+      "reward_rate_notes": "1 MR point per ₹50 (≈3% value on flights)",
+      "cashback_rate": "3% on flights (when transferred to Marriott)",
+      "best_for": ["Travel Points", "Marriott Stays"],
+      "forex_markup": 3.50,
+      "rewards_breakdown": {
+        "base_reward_points": 1,
+        "points_per_spend": 50,
+        "value_per_point_rupees": 0.40
+      }
+    },
+    {
+      "id": 21,
+      "bank": "HDFC Bank",
+      "card_name": "Diners Club Black",
+      "network": "Diners / Mastercard",
+      "annual_fee": 10000,
+      "reward_rate_notes": "5 points per ₹150 (≈3.33%), up to 10X on SmartBuy",
+      "cashback_rate": "5% on SmartBuy, 3.33% base",
+      "best_for": ["Travel", "Lifestyle"],
+      "forex_markup": 2.00,
+      "rewards_breakdown": {
+        "base_reward_points": 5,
+        "points_per_spend": 150,
+        "value_per_point_rupees": 1.00
+      }
+    },
+    {
+      "id": 22,
+      "bank": "Yes Bank",
+      "card_name": "Kiwi Yes Bank",
+      "network": "RuPay",
+      "annual_fee": 0,
+      "reward_rate_notes": "1.5-5% cashback on UPI",
+      "cashback_rate": "5% for Neon members",
+      "best_for": ["UPI Transactions", "Daily Spends"],
+      "forex_markup": 2.50,
+      "rewards_breakdown": {
+        "base_reward_points": 0,
+        "points_per_spend": 0,
+        "value_per_point_rupees": 0
+      }
+    }
+  ]
+}
